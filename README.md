@@ -1,5 +1,5 @@
-# TFDynamics Demo
-Fabi?n Santos  
+# TFDynamics Demo (project discontinued as Google Earth Engine can do it faster)
+Fabian Santos Ph.d.
 23 August 2017  
 
 ### (1) Required R libraries
