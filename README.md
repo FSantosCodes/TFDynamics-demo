@@ -10,8 +10,9 @@ This is a R package for process Landsat 4-8 images and perform multi-date classi
   •	Santos F., Dubovyk O. & Menz G., 2017. Monitoring Forest Dynamics in the Andean Amazon: The Applicability of Breakpoint Detection Methods Using Landsat Time-Series and 
   Genetic Algorithms. Remote Sensing. 2017, 9, 68. DOI: 10.3390/rs9010068
 
-While the code is funcional, the project is discontinued as Google Earth Engine emerged. 
+While the code is funcional, the project was discontinued as Google Earth Engine emerged as the prime platform for massive processing of spatial data.
 
+The next lines of code shows the operation of this tool.
 
 ### (1) Required R libraries
 
