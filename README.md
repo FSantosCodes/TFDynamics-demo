@@ -1,7 +1,17 @@
-# TFDynamics Demo (project discontinued as Google Earth Engine can do it faster)
-Fabian Santos Ph.d.
+# TFDynamics Demo 
 
+Fabian Santos Ph.d.
 23 August 2017  
+
+This is a R package for process Landsat 4-8 images and perform multi-date classification and change detection. For details of its technical approach you can visit:
+
+  •	Santos F., Meneses P. & Hostert P., 2018. Monitoring Long-Term Forest Dynamics with Scarce Data: A Multi-Date Classification Implementation in the Ecuadorian Amazon.     
+  European Journal of Remote Sensing. DOI: 10.1080/22797254.2018.1533793
+  •	Santos F., Dubovyk O. & Menz G., 2017. Monitoring Forest Dynamics in the Andean Amazon: The Applicability of Breakpoint Detection Methods Using Landsat Time-Series and 
+  Genetic Algorithms. Remote Sensing. 2017, 9, 68. DOI: 10.3390/rs9010068
+
+While the code is funcional, the project is discontinued as Google Earth Engine emerged. 
+
 
 ### (1) Required R libraries
 
