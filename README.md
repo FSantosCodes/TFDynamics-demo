@@ -1,6 +1,7 @@
 # TFDynamics Demo 
 
 Fabian Santos Ph.d.
+
 23 August 2017  
 
 This is a R package for process Landsat 4-8 images and perform multi-date classification and change detection. For details of its technical approach you can visit:
