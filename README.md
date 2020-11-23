@@ -8,12 +8,10 @@ This is a R package for process Landsat 4-8 images and perform multi-date classi
 
  * Santos F., Meneses P. & Hostert P., 2018. Monitoring Long-Term Forest Dynamics with Scarce Data: A Multi-Date Classification Implementation in the Ecuadorian Amazon.     
   European Journal of Remote Sensing. DOI: 10.1080/22797254.2018.1533793
- * Santos F., Dubovyk O. & Menz G., 2017. Monitoring Forest Dynamics in the Andean Amazon: The Applicability of Breakpoint Detection Methods Using Landsat Time-Series and 
-  Genetic Algorithms. Remote Sensing. 2017, 9, 68. DOI: 10.3390/rs9010068
 
-While the code is funcional, the project was discontinued as Google Earth Engine emerged as the prime platform for massive processing of spatial data.
+While the code is funcional, the project was discontinued as Google Earth Engine emerged as the prime platform for massive processing of spatial data. While this R implementation is demostrated in the publication, it is time demanding due landsat imagery download and processing.
 
-The next lines of code shows the operation of this tool.
+The next lines of code shows a demo of its code.
 
 ### (1) Required R libraries
 
