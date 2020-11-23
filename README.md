@@ -9,9 +9,9 @@ This is a R package for process Landsat 4-8 images and perform multi-date classi
  * Santos F., Meneses P. & Hostert P., 2018. Monitoring Long-Term Forest Dynamics with Scarce Data: A Multi-Date Classification Implementation in the Ecuadorian Amazon.     
   European Journal of Remote Sensing. DOI: 10.1080/22797254.2018.1533793
 
-While the code is funcional, the project was discontinued as Google Earth Engine emerged as the prime platform for massive processing of spatial data. While this R implementation is demostrated in the publication, it is time demanding due landsat imagery download and processing.
+While the code is funcional, the project was discontinued as Google Earth Engine  emerged as the prime platform for massive processing of spatial data. While this R implementation is demostrated in the publication, it is time demanding due landsat imagery download and processing. Neverthless, the preprocessing approach of this work is now implemented in GEE (check: https://code.earthengine.google.com/029d005e4a4d7e48b295fe968816b3a1)
 
-The next lines of code shows a demo of its code.
+The next lines of code shows a demo of its R implementation.
 
 ### (1) Required R libraries
 
